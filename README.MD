@@ -1,7 +1,5 @@
 [caluclator](https://caluculator.netlify.app/)
 
-
-
 [newspaperdesign](https://peaceful-clarke-eb0bbe.netlify.app/)
 
 [obisity-Banner](https://vigorous-wiles-859ea0.netlify.app/)
@@ -20,7 +18,7 @@
 
 [Password-reset](https://srikantha4passwordreset.netlify.app/)
 
-[Admin dashboard](https://srikantha4passwordreset.netlify.app/)
+[Admin dashboard](https://bucolic-bonbon-2ad99c.netlify.app/)
 
 [post app](https://hopeful-bohr-eefb3f.netlify.app/)
 
